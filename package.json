@@ -1,0 +1,31 @@
+{
+    "title": "Travello",
+    "name": "travelo",
+    "version": "4.2.0",
+    "scripts": {
+       "start": "nodemon server.js"
+    },
+    "description": "An app for finding the shortest or cheapest route",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "author": "Kavya Sagar",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "bootstrap": "4.3.1",
+        "express": "^4.16.4",
+        "jquery": "3.4.1",
+        "nodemon": "^1.19.0"
+    },
+    "devDependencies": {
+        "browser-sync": "2.26.5",
+        "del": "^4.1.1",
+        "gulp": "4.0.2",
+        "merge-stream": "^1.0.1"
+    }
+}

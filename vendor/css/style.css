@@ -1,0 +1,28 @@
+body {
+  padding-top: 56px;
+}
+.bg-dark {
+    background-color: #1d537b!important;
+}
+.list-group-item .btn{
+    width: 100%;
+    margin: 10px 0;
+}
+.cost{
+    float: right;
+    display: inline-block;
+}
+.discount{
+    float: right;
+    display: inline-block;
+    font-weight: 500;
+}
+.mrt{
+    margin-right: 10px;
+}
+.total{
+    background-color: rgba(0,0,0,.03);
+    font-size: 1.5rem;
+    padding: 10px;
+    font-weight: 500;
+}
