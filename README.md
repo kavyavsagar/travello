@@ -1,9 +1,9 @@
 # Travello
-A trip advisor app for finding fastest and cheapest route
-## Install
+Travello is a trip advisor app which will help you to find the cheapest and fastest routes for your destination.
 
-npm install
+<h3>Install Server</h3>
+<pre>$ npm install</pre>
 
-## Run App
 
-node start
+<h3>Run App</h3>
+<pre>$ npm start</pre>
